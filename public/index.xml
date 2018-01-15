@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jared and Cici&#39;s Wedding</title>
+    <link>https://www.jaredandcici.com/</link>
+    <description>Recent content on Jared and Cici&#39;s Wedding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.jaredandcici.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
